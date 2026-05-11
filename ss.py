@@ -1,0 +1,1 @@
+input("podaj liczbe")
