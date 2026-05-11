@@ -1,1 +1,0 @@
-input("podaj liczbe")
